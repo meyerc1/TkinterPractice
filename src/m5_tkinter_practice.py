@@ -104,6 +104,7 @@ def print_hello(contents):
     else:
         print("Goodbye")
 
+
 def many_prints(first_entry, second_entry):
     for k in range(int(second_entry)):
         print(first_entry)
